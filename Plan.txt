@@ -1,0 +1,7 @@
+(Aplikacja to sporządzania drużyny w RPG/MMORPG)
+-Przejrzyste menu z możliwością klikania kafelek
+-Pokazywana lista wybranych "klas poastaci" na bierząco
+-Każdą klase wybiera sie ze względu na dane bonusy który zapewnia wiec pewnie dodam jakąś liste po boku która te bonusy bedzie odhaczać
+-Niektóre bonusy będą wiekszej wartości pozostałe bedą pomniejszymi, planuje dodać znacznik ze dana klasa postaci 
+jest posiadana w grupie i nie jest zalecana by dalej wybierac
+-przewidywana ilość klas 24, bonusy +/-20
